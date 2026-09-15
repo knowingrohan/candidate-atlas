@@ -100,4 +100,3 @@ Authentication, editing, real clinical datasets, and analytics are intentionally
 - [API contract](docs/API.md)
 - [Next.js Route Handlers](https://nextjs.org/docs/app/getting-started/route-handlers)
 - [Next.js testing guidance](https://nextjs.org/docs/app/guides/testing/vitest)
-
