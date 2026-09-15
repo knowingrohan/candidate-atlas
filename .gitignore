@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+!.env.example
+playwright-report/
+test-results/
+*.tsbuildinfo
+
+# Local-only files not part of the submission (assignment brief, notes, etc.)
+private/
+
+# OS / editor cruft
+.DS_Store
+*.log
+coverage/
